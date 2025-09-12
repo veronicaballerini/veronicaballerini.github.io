@@ -4,6 +4,23 @@ title: About Me
 permalink: /about/
 ---
 
+<div class="main-nav">
+  <!-- HOME -->
+  <a href="/">Home</a>
+  <!-- ABOUT -->
+  <a href="/about/">About</a>
+  <!-- RESEARCH -->
+  <a href="/research/">Research</a>
+  <!-- TEACHING -->
+  <a href="/teaching/">Teaching</a>
+  <!-- BAYESMECOS -->
+  <a href="/bayesmecos/">BayesMeCOS</a>
+  <!-- extra -->
+  <a href="/photos/">extra</a>
+</div>
+
+<br>
+
 ## About Me
 
 [Find a full version of my CV here](https://drive.google.com/file/d/1Rvv-GBjlWQjkejzVAFrJ5nDfn0glokuR/view?usp=sharing)
