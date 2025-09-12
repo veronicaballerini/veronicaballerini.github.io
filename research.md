@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About Me
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
 <div class="main-nav">
