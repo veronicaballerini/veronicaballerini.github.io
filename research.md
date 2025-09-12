@@ -23,7 +23,7 @@ permalink: /research/
 
 ## Research works
 
-# Causal inference
+### Causal inference
 - Ballerini V., Bornkamp B., Mattei A., Mealli F., Wang C., Zhang Y (2025+) Evaluating causal effects on time-to-event outcomes in an RCT in Oncology with treatment discontinuation. Under review at The Biometrical Journal (conditionally accepted)
 - Ballerini V. (2025) From Association to Causation: The COVID-19 Wildfire Data. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) Statistics for Innovation II. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. [doi.org/10.1007/978-3-031-96303-2_18](https://link.springer.com/chapter/10.1007/978-3-031-96303-2_18)
 - Ballerini V., Mattei A., Mealli F. (2025) Principal stratum strategy for safety evaluation under principal ignorability. In: Pollice, A., Mariani, P. (eds) Methodological and Applied Statistics and Demography II. SIS 2024. Italian Statistical
@@ -33,7 +33,7 @@ Society Series on Advances in Statistics. Springer, Cham. [doi.org/10.1007/978-3
 - Mattei A., Ding P., Ballerini V., Mealli F. (2024). Assessing causal effects in the presence of treatment switching through principal stratification, Bayesian Analysis, Advance Publication, 1-28. [doi.org/10.1214/24-BA1425](https://projecteuclid.org/journals/bayesian-analysis/volume-20/issue-3/Assessing-Causal-Effects-in-the-Presence-of-Treatment-Switching-Through/10.1214/24-BA1425.full)
 - Avalos-Pacheco A., Ballerini V., Pedone M., Müller P. (2023). Contributed discussion to “Causal Inference Under Mis-Specification: Adjustment Based on the Propensity Score (with Discussion)”, Bayesian Analysis, Vol 18, Issue 2, 680-682.
 
-# Survey statistics and socioeconomic applications
+### Survey statistics and socioeconomic applications
 - Ballerini V., Di Zio M., Liseo B., Toti S. (2025) Combining administrative and survey data to correct coverage errors in register-based statistics: a Bayesian approach. Journal of Official Statistics, Vol 41, Issue 2, 598-618. [doi.org/10.1177/0282423X241312739](https://journals.sagepub.com/doi/10.1177/0282423X241312739)
 - Ballerini V., Seri E. (2025). A quantitative investigation of immigrants’ integration and detention in Europe. Quality & Quantity, Vol 59, 253–274. [doi.org/10.1007/s11135-024-01926-6](https://link.springer.com/article/10.1007/s11135-024-01926-6)
 - Ballerini V., Liseo B. (2025) Inferring a Population Composition From Survey Data With Nonignorable Nonresponse: Borrowing Information From External Sources. Journal of Survey Statistics and Methodology, Vol 13, Issue 2, 241–260, [doi.org/10.1093/jssam/smae041](https://academic.oup.com/jssam/article/13/2/241/7918314)
