@@ -8,9 +8,7 @@ layout: default
   <a href="/projects/">Projects</a>
 </div>
 
-# Welcome!
-
-Hi, I'm **Veronica Ballerini**, and this is my personal website.
+# Veronica Ballerini
 
 I'm a Research Associate at the Department of Biostatistics of the **Harvard T.H. Chan School of Public Health**. Previously, I was an "independent" postdoc and PI of the [BayesMeCOS](/BayesMeCOS/) project at the University of Florence.
  
