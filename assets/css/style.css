@@ -7,9 +7,3 @@ body {
 h1 { font-size: 2.3em; }
 h2 { font-size: 1.6em; }
 h3 { font-size: 1.3em; }
-
-img[alt="Logo"] {
-  width: 120px;          /* Or your preferred size */
-  height: 120px;
-  border-radius: 50%;    /* Makes it a circle */
-}
