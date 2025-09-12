@@ -25,6 +25,6 @@ My research interests combine missing data modelling and borrowing information s
   <a href="https://www.linkedin.com/in/veronica-ballerini-95a930117/" title="LinkedIn" style="margin:0 1em;"><i class="fab fa-linkedin"></i></a>
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/vballerini.bsky.social" title="Bluesky" style="margin: 0 1em;">
-    <i class="fas fa-github"></i>
+    <i class="fas fa-bluesky"></i>
   </a>
 </div>
