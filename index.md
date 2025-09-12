@@ -5,7 +5,9 @@ layout: default
 <div class="main-nav">
   <a href="/">Home</a>
   <a href="/about/">About</a>
-  <a href="/projects/">Projects</a>
+  <a href="/research/">Research</a>
+  <a href="/teaching/">Teaching</a>
+  <a href="/**bayesmecos**/">BayesMeCOS</a>
 </div>
 
 # Veronica Ballerini
