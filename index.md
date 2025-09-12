@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-[Home](/) | [About](/about/) | [Projects](/projects/)
 # Welcome!
 
 Hi, I'm **Veronica Ballerini**, and this is my personal website.
