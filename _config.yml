@@ -4,6 +4,3 @@ description: Write a short description of your site.
 logo: /logo.png
 sass:
   style: compressed
-include:
-  - assets
-remote_theme: pages-themes/minimal@v0.2.0
