@@ -3,10 +3,15 @@ layout: default
 ---
 
 <div class="main-nav">
+  <!-- HOME -->
   <a href="/">Home</a>
+  <!-- ABOUT -->
   <a href="/about/">About</a>
+  <!-- RESEARCH -->
   <a href="/research/">Research</a>
+  <!-- TEACHING -->
   <a href="/teaching/">Teaching</a>
+  <!-- BAYESMECOS -->
   <a href="/bayesmecos/">BayesMeCOS</a>
 </div>
 
