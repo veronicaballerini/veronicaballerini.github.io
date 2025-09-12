@@ -1,0 +1,9 @@
+/* Increase the base font size for the whole site */
+body {
+  font-size: 1.15em;
+}
+
+/* Adjust headers for proportion */
+h1 { font-size: 2.3em; }
+h2 { font-size: 1.6em; }
+h3 { font-size: 1.3em; }
