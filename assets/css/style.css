@@ -1,26 +1,3 @@
-/* Change background color and text color */
-body {
-  background-color: #fffbe7;
-  color: #211a16;
-}
-
-/* Customize header */
-header.site-header {
-  background-color: #cbe8fa;
-  color: #183153;
-  font-family: 'Montserrat', Arial, sans-serif;
-}
-
-/* Change link colors */
-a {
-  color: #3a86ff;
-}
-
-/* Change the font everywhere */
-body, h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', Arial, sans-serif;
-}
-
 /* Target the logo image */
 img[alt="Logo"] {
   width: 120px;       /* Set your preferred size */
