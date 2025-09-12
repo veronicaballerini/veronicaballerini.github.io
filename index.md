@@ -13,6 +13,8 @@ layout: default
   <a href="/teaching/">Teaching</a>
   <!-- BAYESMECOS -->
   <a href="/bayesmecos/">BayesMeCOS</a>
+  <!-- extra -->
+  <a href="/photos/">extra</a>
 </div>
 
 <br><br>
@@ -20,7 +22,7 @@ I'm a Research Associate at the Department of Biostatistics of the **Harvard T.H
  
 My [research interests](/research/) combine missing data modelling and borrowing information strategies for **causal inference**, with applications in biostatistics and public health.
 
-If you want to know more [about my research journey](/about/), explore this website or look at my [full CV](https://drive.google.com/file/d/1Rvv-GBjlWQjkejzVAFrJ5nDfn0glokuR/view?usp=sharing).
+If you want to know more [about me](/about/), explore this website or look at my [full CV](https://drive.google.com/file/d/1Rvv-GBjlWQjkejzVAFrJ5nDfn0glokuR/view?usp=sharing).
 
 Feel free to reach out.
 
