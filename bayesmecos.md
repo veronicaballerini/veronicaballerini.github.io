@@ -39,9 +39,9 @@ We then proposed a project intending to help speed up the drug development proce
 Since then, our research group has grown, first welcoming [Norma Alejandra Vergara Lope Gracia](https://www.bdi.ox.ac.uk/Team/alejandra-vergara-lope) to the team and then [Giulio Grossi](https://sites.google.com/view/giuliogrossi/). 
 
 The project developed in three directions:
-- Precision Medicine: help evaluate the potential variations in global genomic architecture associated with bacterial genomic information.
-- External Data Integration and adaptive designs: integrate data coming from non-concurrent trials; change the randomization ratios using covariate-dependent models; 
-- Intercurrent events in clinical trials: provide a way to analyze the study in the presence of intercurrent events, i.e., events that take place after the randomization and may bias the study results in a causal framework.
+- **Precision Medicine**: help evaluate the potential variations in global genomic architecture associated with bacterial genomic information.
+- **External Data Integration** and adaptive designs: integrate data coming from non-concurrent trials; change the randomization ratios using covariate-dependent models; 
+- **Intercurrent events** in clinical trials: provide a way to analyze the study in the presence of intercurrent events, i.e., events that take place after the randomization and may bias the study results in a causal framework.
 
 ### Research products
 - Ballerini V., Bornkamp B., Mattei A., Mealli F., Wang C., Zhang Y (2025+) Evaluating causal effects on time-to-event outcomes in an RCT in Oncology with treatment discontinuation. Under review at The Biometrical Journal (conditionally accepted)
