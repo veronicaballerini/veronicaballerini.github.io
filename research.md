@@ -15,8 +15,6 @@ permalink: /research/
   <a href="/teaching/">Teaching</a>
   <!-- BAYESMECOS -->
   <a href="/bayesmecos/">BayesMeCOS</a>
-  <!-- extra -->
-  <a href="/photos/">extra</a>
 </div>
 
 <br>
