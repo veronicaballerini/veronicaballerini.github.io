@@ -24,7 +24,7 @@ permalink: /bayesmecos/
 ## BayesMeCOS
 
 <p align="center">
-  <img src="/bayesmecos.png" alt="BayesMeCOS logo" width="100">
+  <img src="/bayesmecos.png" alt="BayesMeCOS logo" width="200">
 </p>
 
 **Bayesian Methods for Clinical and Observational Studies** was the winning project of the University of Florence Young Independent Researcher call, funded by NextGenerationEU (BayesMeCOS Grant no. B008-P00634).
