@@ -1,0 +1,8 @@
+a {
+  color: #013854;     /* Set to your desired color */
+}
+
+/* Link on hover */
+a:hover {
+  color: #f7f73b;     /* Changes color when you hover the mouse */
+}
