@@ -51,5 +51,5 @@ The project developed in three directions:
 - Pedone M., Argiento R., Stingo F. C. (2023) Personalized treatment selection model for survival outcomes. Book of Abstract and Short Papers, 14th Scientific Meeting of the Classification and Data Analysis Group. Salerno, September 11-13, 2023 edited by Carla Rampichini, Michele La Rocca, Pietro Coretto, Giuseppe Giordano, Maria Lucia Parrella.
 
 <p align="center">
-  <img src="/bayesmecos_team.png" alt="BayesMeCOS team" width="300">
+  <img src="/bayesmecos_team.jpg" alt="BayesMeCOS team" width="300">
 </p>
