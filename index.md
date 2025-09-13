@@ -25,16 +25,16 @@ If you want to know more [about me](/about/), explore this website or look at my
 Feel free to reach out.
 
 <div style="margin-top:1em; text-align:center;">
-  <a href="mailto:vballerini@hsph.harvard.edu" title="Email" style="margin:0 1em;"><i class="fas fa-envelope"></i>
+  <a href="mailto:vballerini@hsph.harvard.edu" title="Email" style="margin:0 1em;"><i class="fas fa-envelope-2x"></i>
   </a>
   <!-- Google Scholar -->
   <a href="https://scholar.google.it/citations?user=S5Q4VmAAAAAJ&hl=it" title="Google Scholar" style="margin: 0 1em;">
-    <i class="fas fa-graduation-cap"></i>
+    <i class="fas fa-graduation-cap-2x"></i>
   </a>
-  <a href="https://github.com/veronicaballerini" title="GitHub" style="margin:0 1em;"><i class="fab fa-github"></i></a>
-  <a href="https://www.linkedin.com/in/veronica-ballerini-95a930117/" title="LinkedIn" style="margin:0 1em;"><i class="fab fa-linkedin"></i></a>
+  <a href="https://github.com/veronicaballerini" title="GitHub" style="margin:0 1em;"><i class="fab fa-github-2x"></i></a>
+  <a href="https://www.linkedin.com/in/veronica-ballerini-95a930117/" title="LinkedIn" style="margin:0 1em;"><i class="fab fa-linkedin-2x"></i></a>
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/vballerini.bsky.social" title="Bluesky" style="margin: 0 1em;">
-    <i class="fas fa-globe"></i>
+    <i class="fas fa-globe-2x"></i>
   </a>
 </div>
