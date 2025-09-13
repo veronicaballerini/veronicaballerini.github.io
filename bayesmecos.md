@@ -50,6 +50,8 @@ The project developed in three directions:
 - Niccolai E., Pedone M., Martinelli, I. ..., Stingo F.C., Mandrioli J., and Amedei A. (2024). Amyotrophic lateral sclerosis stratification: Unveiling patterns with virome, inflammation, and metabolism molecules. Journal of Neurology. 1-16.
 - Pedone M., Argiento R., Stingo F. C. (2023) Personalized treatment selection model for survival outcomes. Book of Abstract and Short Papers, 14th Scientific Meeting of the Classification and Data Analysis Group. Salerno, September 11-13, 2023 edited by Carla Rampichini, Michele La Rocca, Pietro Coretto, Giuseppe Giordano, Maria Lucia Parrella.
 
+<br><br>
+
 <p align="center">
   <img src="/bayesmecos_team.jpg" alt="BayesMeCOS team" width="300">
 </p>
