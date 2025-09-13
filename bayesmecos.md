@@ -15,8 +15,6 @@ permalink: /bayesmecos/
   <a href="/teaching/">Teaching</a>
   <!-- BAYESMECOS -->
   <a href="/bayesmecos/">BayesMeCOS</a>
-  <!-- extra -->
-  <a href="/photos/">extra</a>
 </div>
 
 <br>
@@ -49,5 +47,9 @@ The project developed in three directions:
 - Avalos-Pacheco A., Ballerini V., Pedone M., Müller P. (2023) Contributed discussion: "Causal Inference Under Mis-Specification: Adjustment Based on the Propensity Score (with Discussion)", Bayesian Analysis, 18(2), 680-682.
 - Braito L., Ballerini V., Bocci C., Rocco E. (2024) “Integrating traditional and innovative data sources”, report.
 - Mattei A., Ding P., Ballerini V., Mealli F. (2024) Assessing causal effects in the presence of treatment switching through principal stratification. Bayesian Analysis, Advance Publication 1-28.
-- Niccolai E., Pedone M., Martinelli, I. ..., Stingo F.C., Mandrioli J., and Amedei A. (2024). Amyotrophic lateral sclerosis stratification: Unveiling patterns with virome, inflammation, and metabolism molecules. Journal of Neurology. 1-16. 
+- Niccolai E., Pedone M., Martinelli, I. ..., Stingo F.C., Mandrioli J., and Amedei A. (2024). Amyotrophic lateral sclerosis stratification: Unveiling patterns with virome, inflammation, and metabolism molecules. Journal of Neurology. 1-16.
 - Pedone M., Argiento R., Stingo F. C. (2023) Personalized treatment selection model for survival outcomes. Book of Abstract and Short Papers, 14th Scientific Meeting of the Classification and Data Analysis Group. Salerno, September 11-13, 2023 edited by Carla Rampichini, Michele La Rocca, Pietro Coretto, Giuseppe Giordano, Maria Lucia Parrella.
+
+<p align="center">
+  <img src="/bayesmecos_team.png" alt="BayesMeCOS team" width="300">
+</p>
