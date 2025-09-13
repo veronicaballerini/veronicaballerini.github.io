@@ -21,8 +21,6 @@ permalink: /bayesmecos/
 
 <br>
 
-## BayesMeCOS
-
 <p align="center">
   <img src="/bayesmecos.png" alt="BayesMeCOS logo" width="200">
 </p>
