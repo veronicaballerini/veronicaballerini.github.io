@@ -1,0 +1,9 @@
+a {
+  color: black !important;
+}
+a:visited {
+  color: black !important;
+}
+a:hover, a:active {
+  color: #555 !important; /* Optional: a slightly lighter black on hover */
+}
