@@ -7,3 +7,10 @@ a:visited {
 a:hover, a:active {
   color: #555 !important; /* Optional: a slightly lighter black on hover */
 }
+
+img[src="/logo.png"] {
+  max-width: 120px; /* or whatever you like */
+  height: auto;
+  display: block;
+  margin: 0 auto; /* centers it */
+}
