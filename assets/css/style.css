@@ -9,8 +9,6 @@ a:hover, a:active {
 }
 
 img[src="/logo.png"] {
-  max-width: 120px; /* or whatever you like */
+  max-width: 200px;
   height: auto;
-  display: block;
-  margin: 0 auto; /* centers it */
 }
