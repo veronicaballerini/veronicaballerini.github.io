@@ -22,7 +22,7 @@ My [research interests](/research/) combine missing data modelling and borrowing
 
 If you want to know more [about me](/about/), explore this website or look at my [full CV](https://drive.google.com/file/d/1Rvv-GBjlWQjkejzVAFrJ5nDfn0glokuR/view?usp=sharing).
 
-Feel free to reach out.
+Feel free to reach out!
 
 <div style="margin-top:2em; text-align:center;">
   <a href="mailto:vballerini@hsph.harvard.edu" title="Email" style="margin:0 2em;"><i class="fas fa-envelope"></i>
