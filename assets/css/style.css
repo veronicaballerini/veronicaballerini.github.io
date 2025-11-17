@@ -12,3 +12,8 @@ img[src="/logo.png"] {
   max-width: 200px;
   height: auto;
 }
+
+/* Change font */
+body {
+  font-family: 'Inter', Arial, sans-serif;
+}
