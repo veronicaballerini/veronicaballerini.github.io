@@ -1,16 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";   /* load the theme's default styles first */
+
+/* Your custom styles below */
+
+/* Links */
 a {
   color: black !important;
 }
 a:visited {
   color: black !important;
 }
-a:hover, a:active {
-  color: #555 !important; /* Optional: a slightly lighter black on hover */
-}
-
-img[src="/logo.png"] {
-  max-width: 200px;
-  height: auto;
+a:hover,
+a:active {
+  color: #555 !important;
 }
 
 /* Change font */
@@ -18,7 +22,7 @@ body {
   font-family: 'Inter', Arial, sans-serif;
 }
 
-/* Put logo on the left, text stacked on the right */
+/* Header: logo on the left, text stacked on the right */
 .wrapper > header {
   display: grid;
   grid-template-columns: auto 1fr;  /* logo | text */
@@ -26,17 +30,19 @@ body {
   align-items: center;
 }
 
-/* Logo on the left */
+/* Logo: left side + size */
 .wrapper > header img[src="/logo.png"] {
   grid-column: 1;
-  grid-row: 1 / -1;  /* span all text rows */
-  max-width: 200px;
+  grid-row: 1 / -1;   /* span all text rows */
+  width: 150px;       /* make it bigger; adjust as you like */
   height: auto;
 }
 
-/* Title + description on the right */
+/* All header text on the right */
 .wrapper > header h1,
-.wrapper > header p {
+.wrapper > header p,
+.wrapper > header .view,
+.wrapper > header ul {
   grid-column: 2;
-  margin: 0;
+  margin: 0 0 0.25rem 0;
 }
