@@ -18,15 +18,26 @@ body {
   font-family: 'Inter', Arial, sans-serif;
 }
 
+/* Put logo on the left, text stacked on the right */
 header {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto 1fr; /* logo | text */
+  column-gap: 16px;
   align-items: center;
-  gap: 16px;
 }
-header img {
+
+/* Make the logo occupy the left column */
+header img[src="/logo.png"] {
+  grid-column: 1;
+  grid-row: 1 / -1;   /* span all rows of text */
   max-width: 80px;
   height: auto;
 }
-header h1, header p {
-  margin: 0;
+
+/* All header text on the right */
+header h1,
+header p,
+header ul {
+  grid-column: 2;
+  margin: 0 0 0.25rem;
 }
