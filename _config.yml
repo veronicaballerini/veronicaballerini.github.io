@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: Veronica Ballerini
-description: 
+description:
 logo: /logo.png
-# In _config.yml
-include: [assets/css/style.css]
