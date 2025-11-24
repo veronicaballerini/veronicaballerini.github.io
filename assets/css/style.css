@@ -9,7 +9,7 @@ a:hover, a:active {
 }
 
 img[src="/logo.png"] {
-  max-width: 300px;
+  max-width: 200px;
   height: auto;
 }
 
@@ -19,25 +19,24 @@ body {
 }
 
 /* Put logo on the left, text stacked on the right */
-header {
+.wrapper > header {
   display: grid;
-  grid-template-columns: auto 1fr; /* logo | text */
+  grid-template-columns: auto 1fr;  /* logo | text */
   column-gap: 16px;
   align-items: center;
 }
 
-/* Make the logo occupy the left column */
-header img[src="/logo.png"] {
+/* Logo on the left */
+.wrapper > header img[src="/logo.png"] {
   grid-column: 1;
-  grid-row: 1 / -1;   /* span all rows of text */
-  max-width: 80px;
+  grid-row: 1 / -1;  /* span all text rows */
+  max-width: 200px;
   height: auto;
 }
 
-/* All header text on the right */
-header h1,
-header p,
-header ul {
+/* Title + description on the right */
+.wrapper > header h1,
+.wrapper > header p {
   grid-column: 2;
-  margin: 0 0 0.25rem;
+  margin: 0;
 }
