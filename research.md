@@ -23,7 +23,7 @@ permalink: /research/
 
 ### Causal inference
 - Grossi G., Vanciu L., Ballerini V., Braun D., Bargagli Stoffi F. (2025+) Estimating the Effects of Heatwaves on Health: A Causal Inference Framework. [arXiv preprint 2511.11433v1](https://arxiv.org/abs/2511.11433v1).
-- Ballerini V., Bornkamp B., Mealli F., Wang C., Zhang Y., Mattei A. (2025) Evaluating Causal Effects on Time‐to‐Event Outcomes in an RCT in Oncology With Treatment Discontinuation. Biometrical Journal, 67(6), e70092.
+- Ballerini V., Bornkamp B., Mealli F., Wang C., Zhang Y., Mattei A. (2025) Evaluating Causal Effects on Time‐to‐Event Outcomes in an RCT in Oncology With Treatment Discontinuation. Biometrical Journal, 67(6), e70092. [doi.org/10.1002/bimj.70092](https://doi.org/10.1002/bimj.70092)
 - Ballerini V. (2025) From Association to Causation: The COVID-19 Wildfire Data. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) Statistics for Innovation II. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. [doi.org/10.1007/978-3-031-96303-2_18](https://link.springer.com/chapter/10.1007/978-3-031-96303-2_18)
 - Ballerini V., Mattei A., Mealli F. (2025) Principal stratum strategy for safety evaluation under principal ignorability. In: Pollice, A., Mariani, P. (eds) Methodological and Applied Statistics and Demography II. SIS 2024. Italian Statistical
 Society Series on Advances in Statistics. Springer, Cham. [doi.org/10.1007/978-3-031-64350-7_33](https://link.springer.com/chapter/10.1007/978-3-031-64350-7_33)
