@@ -9,7 +9,7 @@ a:hover, a:active {
 }
 
 img[src="/logo.png"] {
-  max-width: 200px;
+  max-width: 300px;
   height: auto;
 }
 
